@@ -90,4 +90,7 @@ The Real-Time Chat Server project is a fully functional chat application that sh
 
 OUTPUT:
 
+FIRST ROOM:
+![Image](https://github.com/user-attachments/assets/fec83b44-2205-4ca1-88a8-4d0b1c64932f)
 
+SECOND ROOM:
