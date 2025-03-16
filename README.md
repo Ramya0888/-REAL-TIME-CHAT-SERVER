@@ -94,3 +94,4 @@ FIRST ROOM:
 ![Image](https://github.com/user-attachments/assets/fec83b44-2205-4ca1-88a8-4d0b1c64932f)
 
 SECOND ROOM:
+![Image](https://github.com/user-attachments/assets/d304d6aa-46f5-4fca-95c2-190f5f91cc90)
